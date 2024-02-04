@@ -1,0 +1,6 @@
+.vscode
+.idea
+libs
+obj
+setools-android
+libsepol.a
